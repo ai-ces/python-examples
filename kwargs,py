@@ -1,0 +1,19 @@
+
+# def userInfo(*args):
+#     print(type(args))
+
+# userInfo() // TUPLE
+
+# def userInfo(**kwargs):
+#     print(type(kwargs))
+#     print(kwargs)
+
+# userInfo() // DICT
+
+
+# def userInfo(**kwargs):
+#     for key,value in kwargs.items():
+#         print(f"{key}: {value}")
+
+# userInfo(userInfo="")
+
